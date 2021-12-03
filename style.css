@@ -39,6 +39,7 @@ header{
 main{
   margin: auto;
   width: 960px;
+  padding-top: 120px;
 }
 
 /******** /Header Main Footer ********/
@@ -86,3 +87,17 @@ nav {
 }
 
 /******** /Contenuto Header ********/
+
+
+/******** Contenuto Main ********/
+
+main h3{
+
+    font-size: 25px;
+}
+
+main p{
+    margin: 20px 0;
+}
+
+/******** /Contenuto Main ********/
